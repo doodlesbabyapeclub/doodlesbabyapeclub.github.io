@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd7F67A5AAB6A418979110f62E2ba45c1CefeF452",
+  "SCAN_LINK": "https://polygonscan.com/address/0xd7F67A5AAB6A418979110f62E2ba45c1CefeF452",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Doodles Baby Ape Club",
+  "SYMBOL": "DBAC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/doodles-baby-ape-club",
+  "SHOW_BACKGROUND": true
+}
